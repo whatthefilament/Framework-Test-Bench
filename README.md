@@ -10,11 +10,11 @@ It also includes a mount for the stock wifi antenna module with cable routing un
 Feel free to remix/mod to fit your needs. 
 
 
-Print
-![Print](https://github.com/whatthefilament/Framework-Test-Bench/blob/main/Images/TestBenchPrint.jpeg)
-
 Preview
 ![Preview](https://github.com/whatthefilament/Framework-Test-Bench/blob/main/Images/Framework%20Mobo%20Test%20Bench2.png)
 
 Preview 2
 ![Preview2](https://github.com/whatthefilament/Framework-Test-Bench/blob/main/Images/Framework%20Mobo%20Test%20Bench.png)
+
+Print
+![Print](https://github.com/whatthefilament/Framework-Test-Bench/blob/main/Images/TestBenchPrint.jpeg)
